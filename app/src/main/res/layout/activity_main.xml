@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="17dp">
 
     <com.google.android.gms.common.SignInButton
         android:id="@+id/btnGoogleSignIn"
